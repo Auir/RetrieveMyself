@@ -9,6 +9,7 @@ README.md: [codecanric][codecanric]
 * Maintainers.md: [MrJasper][MrJasper]
 * NamingRules.md: [MrJasper][MrJasper]
 * Workflow.md: [MrJasper][MrJasper]
+* Mapdesign.md: [Auir][Auir]
 
 ## Classes/
 
@@ -22,3 +23,4 @@ README.md: [codecanric][codecanric]
 
 [MrJasper]: https://github.com/MrJasper
 [codecanric]: https://github.com/codecanric
+[Auir]:https://github.com/Auir
