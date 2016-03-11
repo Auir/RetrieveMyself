@@ -90,3 +90,4 @@
 ###绿洲
 * 奖励星*1（增加玩家通关评价，在成功获取水源后直接赋予玩家）
 
+![](https://github.com/Auir/RetrieveMyself/blob/master/Resources/pics/Map1.jpg)
